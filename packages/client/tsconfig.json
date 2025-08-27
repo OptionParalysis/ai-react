@@ -3,9 +3,7 @@
     // setup for shadcn
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "./src/*"
-      ]
+      "@/*": ["./src/*"]
     }
   },
   "files": [],
