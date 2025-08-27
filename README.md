@@ -1,4 +1,8 @@
-# ai-react
+# react-express-tailwind-boilerplate
+
+# Boilerplate Template
+
+This project leverages React and Express. For the front-end it uses Tailwind and Shadcn.
 
 To install dependencies:
 
@@ -9,7 +13,7 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run dev
 ```
 
-This project was created using `bun init` in bun v1.2.21. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
+This project was created using `bun init` in bun v1.2.21. [Bun](https://bun.com).
